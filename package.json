@@ -1,0 +1,15 @@
+{
+    "name": "tmdb-node-app",
+    "version": "0.0.1",
+    "author": "Eyevinn Technology <work@eyevinn.se>",
+    "contributors": [
+        "Sebastian Ljungman <sebastian.ljungman@eyevinn.se (Eyevinn Technology AB)>"
+    ],
+    "scripts": {
+        "dev": "nodemon server.js",
+        "serve": "node server.js"
+    },
+    "dependencies": {
+        "node-fetch": "^2.6.7"
+    }
+}
